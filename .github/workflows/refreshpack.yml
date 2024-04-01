@@ -1,9 +1,11 @@
 name: Packwiz Update
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
+        workflow_dispatch:
+        push:
+                branches:
+                        - build
+                        - main
 
 permissions:
   contents: write
@@ -23,19 +25,16 @@ jobs:
         run: go install github.com/packwiz/packwiz@latest
 
       - name: Refresh packwiz index
-        run: packwiz refresh
-
-      - name: Update mods
-        run: packwiz update -y --all
+        run: packwiz refresh -y --build
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ github.token }}
-          commit-message: "fix: update all mods"
-          title: "fix: update all mods"
-          body: "This pull request updates all mods to their latest versions."
+          commit-message: "fix: update index"
+          title: "fix: update index"
+          body: "This pull request updates the index"
           branch: packwiz
           base: main
           labels: "packwiz"
-          reviewers: "${{ github.event.pusher.name }}"
+          reviewers: "lilysoftpaw"
