@@ -38,4 +38,4 @@ jobs:
           branch: packwiz
           base: main
           labels: "packwiz"
-          reviewers: "lilysoftpaw"
+          reviewers: "${{ github.event.pusher.name }}"
