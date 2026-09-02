@@ -1,13 +1,13 @@
 name = "Macaw's Furnitures - Biomes O' Plenty"
-filename = "mcwfurnituresbop-1.20-1.1.jar"
+filename = "mcwmysticbiomes-forge-1.20.1-1.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XQ6CZtXV/versions/ZuQ9tHqk/mcwfurnituresbop-1.20-1.1.jar"
-hash-format = "sha1"
-hash = "c5051e8612eaeea238c4076f6dc908e96d61b58c"
+url = "https://cdn.modrinth.com/data/XQ6CZtXV/versions/x6ucfps8/mcwmysticbiomes-forge-1.20.1-1.6.jar"
+hash-format = "sha512"
+hash = "c5ef08b454b56b67679f5a457d2b7d32190e1d7f40390938e8f1b51bd32be951e6983d893e0565ca9971a6f044dcaf9911fa43b0457351f1b61115386f3a9282"
 
 [update]
 [update.modrinth]
 mod-id = "XQ6CZtXV"
-version = "ZuQ9tHqk"
+version = "x6ucfps8"
