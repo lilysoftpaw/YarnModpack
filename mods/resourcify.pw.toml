@@ -1,13 +1,13 @@
 name = "Resourcify"
-filename = "Resourcify (1.20-1.20.1-forge)-1.3.1.jar"
+filename = "Resourcify (1.20.1-forge)-1.8.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/v18GmGGe/Resourcify%20%281.20-1.20.1-forge%29-1.3.1.jar"
-hash-format = "sha1"
-hash = "d9caae66bcd09e7d66123b7bf3e6521c01466e03"
+url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/RIEhp5Ef/Resourcify%20%281.20.1-forge%29-1.8.5.jar"
+hash-format = "sha512"
+hash = "20026bc8c20c13bb66eb586bd44b582fb14eb3d321d40eef10d05429ad3f419163ea74a00c885606c49918d735cf8299acba9809c04d2f711cb6180fc256b90c"
 
 [update]
 [update.modrinth]
 mod-id = "RLzHAoZe"
-version = "v18GmGGe"
+version = "RIEhp5Ef"
