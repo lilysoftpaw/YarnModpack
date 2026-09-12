@@ -1,13 +1,13 @@
 name = "Elytra Physics"
-filename = "elytra_physics-forge-2.0.jar"
+filename = "elytra_physics-forge-2.6.2_mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jfvCMH0K/versions/btsBRRLa/elytra_physics-forge-2.0.jar"
-hash-format = "sha1"
-hash = "985023aab2b431ce8f919d80ee3074b1c7698b19"
+url = "https://cdn.modrinth.com/data/jfvCMH0K/versions/O5WBZsjC/elytra_physics-forge-2.6.2_mc1.20.1.jar"
+hash-format = "sha512"
+hash = "c98e8f6c0b5687e82c0bb7e2d1cbbbfc2c77b4b53ff98bba4d7bf0bd06d99b9abed40be835d0828e405ab8f70498c25d5108fdd9534c51a84cdea45bd3d9ff8f"
 
 [update]
 [update.modrinth]
 mod-id = "jfvCMH0K"
-version = "btsBRRLa"
+version = "O5WBZsjC"
