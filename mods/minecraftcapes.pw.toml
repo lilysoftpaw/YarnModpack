@@ -1,13 +1,13 @@
 name = "MinecraftCapes"
-filename = "MinecraftCapes Forge 1.20.1-12.3.7.jar"
+filename = "MinecraftCapes Forge 1.20.1-1.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/9gNVPfzw/versions/qvD8LMWH/MinecraftCapes%20Forge%201.20.1-12.3.7.jar"
-hash-format = "sha1"
-hash = "5cb42618b8242eb57b63dc54155736fcc205c47a"
+url = "https://cdn.modrinth.com/data/9gNVPfzw/versions/tdugjhOL/MinecraftCapes%20Forge%201.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "84f81d43ecfe9b4bcb65a65cf2b8194d34d462e5593a120b5a3c7cd44d0afdaf44760bf9c7b6b744ac74282faba45dda074acbf154e79458caf40ee9cd5ea5fc"
 
 [update]
 [update.modrinth]
 mod-id = "9gNVPfzw"
-version = "qvD8LMWH"
+version = "tdugjhOL"
