@@ -1,13 +1,13 @@
 name = "ViveCraft Compat"
-filename = "vivecraftcompat-1.20-1.3.3-all.jar"
+filename = "vivecraftcompat-1.20-1.5.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xnSuzkaS/versions/XcqNXxvp/vivecraftcompat-1.20-1.3.3-all.jar"
-hash-format = "sha1"
-hash = "110830a26207d88396d66ff5059e3936a991d81a"
+url = "https://cdn.modrinth.com/data/xnSuzkaS/versions/N3JWQTO2/vivecraftcompat-1.20-1.5.1.jar"
+hash-format = "sha512"
+hash = "d92d1ee8adcfdd203d1c214c8df4a20672f9befa9ab2d97eacbd9b7aa5e279ed3100a3e8bd3d673c3a63da95d6ce221d502060e616943809395fa64e04b08875"
 
 [update]
 [update.modrinth]
 mod-id = "xnSuzkaS"
-version = "XcqNXxvp"
+version = "N3JWQTO2"
