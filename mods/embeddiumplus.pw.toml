@@ -1,13 +1,13 @@
 name = "Embeddium++"
-filename = "embeddiumplus-1.20.1-v1.2.5.jar"
+filename = "chloride-FORGE-mc1.20.1-v1.8.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yD9qW65f/versions/2Lih5fsH/embeddiumplus-1.20.1-v1.2.5.jar"
-hash-format = "sha1"
-hash = "d49158df0c6a0cd99c6fdc092c410838908695d3"
+url = "https://cdn.modrinth.com/data/yD9qW65f/versions/UDrXQjce/chloride-FORGE-mc1.20.1-v1.8.1.jar"
+hash-format = "sha512"
+hash = "2fa5393ab4562bc94a938d72fd6045c5d99f81cfa90ed67e5ae09816447c27f974916b45506c0ba1456d07d30b0172c1d20ad089ec5eafcbb10ef278a29bffdd"
 
 [update]
 [update.modrinth]
 mod-id = "yD9qW65f"
-version = "2Lih5fsH"
+version = "UDrXQjce"
